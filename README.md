@@ -53,13 +53,13 @@ All third-party assets are free and used under their licenses:
 
 | Asset | Author | License | Link |
 |---|---|---|---|
-| [hero sprites] | [author] | [license] | [link] |
-| [golem sprites] | [author] | [license] | [link] |
-| [forest tiles and background] | [author] | [license] | [link] |
-| [castle tiles] | [author] | [license] | [link] |
-| [UI: touch buttons] | [author] | [license] | [link] |
-| [UI: pause menu and portrait frames] | [author] | [license] | [link] |
-| [audio] | [author] | [license] | [link] |
+| [hero sprites] | [author] | [license] | [link]([https://craftpix.net/freebies/free-shinobi-sprites-pixel-art/]) |
+| [golem sprites] | [author] | [license] | [link]([https://darkpixel-kronovi.itch.io/mecha-golem-free]) |
+| [forest tiles and background] | [author] | [license] | [link]([https://craftpix.net/freebies/free-platformer-game-tileset-pixel-art/]) |
+| [castle tiles] | [author] | [license] | [[link]([https://raou.itch.io/dark-dun]) |
+
+
+
 
 ## AI Usage
 
