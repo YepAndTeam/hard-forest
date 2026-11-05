@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: fb378060079646943b5b2fe2ba14697d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 843047721901351363
+    second: Flying_stone_0
+  - first:
+      213: -690763043837037459
+    second: Flying_stone_1
+  - first:
+      213: 6120364924488235469
+    second: Flying_stone_2
+  - first:
+      213: -2935247767874927169
+    second: Flying_stone_3
+  - first:
+      213: -4908760793684957223
+    second: Flying_stone_4
+  - first:
+      213: 8170920122695233718
+    second: Flying_stone_5
+  - first:
+      213: 8317052344067521316
+    second: Flying_stone_6
+  - first:
+      213: 8281483235337990125
+    second: Flying_stone_7
+  - first:
+      213: -2628388044184040745
+    second: Flying_stone_8
+  - first:
+      213: 189731560570447604
+    second: Flying_stone_9
+  - first:
+      213: -7052269135463141210
+    second: Flying_stone_10
+  - first:
+      213: -1543662715772679927
+    second: Flying_stone_11
+  - first:
+      213: -2770942447160534582
+    second: Flying_stone_12
+  - first:
+      213: 2565955458438404519
+    second: Flying_stone_13
+  - first:
+      213: 468293040313757797
+    second: Flying_stone_14
+  - first:
+      213: 7598293369009977648
+    second: Flying_stone_15
+  - first:
+      213: -629903297421984416
+    second: Flying_stone_16
+  - first:
+      213: 3780496979358565798
+    second: Flying_stone_17
+  - first:
+      213: 4859254782377480432
+    second: Flying_stone_18
+  - first:
+      213: 3388298499673067020
+    second: Flying_stone_19
+  - first:
+      213: -825597461161245715
+    second: Flying_stone_20
+  - first:
+      213: 5826405493339341703
+    second: Flying_stone_21
+  - first:
+      213: -1072497490106447284
+    second: Flying_stone_22
+  - first:
+      213: -4051619430141227328
+    second: Flying_stone_23
+  - first:
+      213: -1501607886029740716
+    second: Flying_stone_24
+  - first:
+      213: 4160376397541131806
+    second: Flying_stone_25
+  - first:
+      213: -1374255315193303456
+    second: Flying_stone_26
+  - first:
+      213: -2445623303948364652
+    second: Flying_stone_27
+  - first:
+      213: -5973806761367204725
+    second: Flying_stone_28
+  - first:
+      213: 2266228357163924350
+    second: Flying_stone_29
+  - first:
+      213: -8208796576682501780
+    second: Flying_stone_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flying_stone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1e1a8bf6b13bb00800000000000000
+      internalID: 843047721901351363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_stone_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d643024ebaae966f0800000000000000
+      internalID: -690763043837037459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_stone_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9b1e3c877efe450800000000000000
+      internalID: 6120364924488235469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_stone_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb58e0ce4b7e347d0800000000000000
+      internalID: -2935247767874927169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_stone_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d72b0dd01490ebb0800000000000000
+      internalID: -4908760793684957223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_stone_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b037596f80f46170800000000000000
+      internalID: 8170920122695233718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0342927ed4fb07845b37eb0d50623162
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":160.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Flying_stone_0: 843047721901351363
+      Flying_stone_1: -690763043837037459
+      Flying_stone_2: 6120364924488235469
+      Flying_stone_3: -2935247767874927169
+      Flying_stone_4: -4908760793684957223
+      Flying_stone_5: 8170920122695233718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

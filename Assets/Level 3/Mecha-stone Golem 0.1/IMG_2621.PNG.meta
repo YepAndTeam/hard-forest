@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 99b80c998f7daaf4ba855c1b88e0b16e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2204139377101355423
+    second: IMG_2621_0
+  - first:
+      213: -5814580093562541041
+    second: IMG_2621_1
+  - first:
+      213: -3251897095323505840
+    second: IMG_2621_2
+  - first:
+      213: -8015708212437320308
+    second: IMG_2621_3
+  - first:
+      213: -5746989713059650690
+    second: IMG_2621_4
+  - first:
+      213: 1125492066524333944
+    second: IMG_2621_5
+  - first:
+      213: 3419885714085619088
+    second: IMG_2621_6
+  - first:
+      213: 4047843908097715635
+    second: IMG_2621_7
+  - first:
+      213: 5223791623990131020
+    second: IMG_2621_8
+  - first:
+      213: 1498301841857992399
+    second: IMG_2621_9
+  - first:
+      213: 4025544601319459938
+    second: IMG_2621_10
+  - first:
+      213: 5875663297563713213
+    second: IMG_2621_11
+  - first:
+      213: 8860139094163224050
+    second: IMG_2621_12
+  - first:
+      213: -6226160335070557889
+    second: IMG_2621_13
+  - first:
+      213: -4218355920801025114
+    second: IMG_2621_14
+  - first:
+      213: 5960974823289372933
+    second: IMG_2621_15
+  - first:
+      213: 4592335456913773906
+    second: IMG_2621_16
+  - first:
+      213: 2001461446600123420
+    second: IMG_2621_17
+  - first:
+      213: -8118604813436691698
+    second: IMG_2621_18
+  - first:
+      213: 5393372322399310982
+    second: IMG_2621_19
+  - first:
+      213: 2720048592524154087
+    second: IMG_2621_20
+  - first:
+      213: 7659006358637155080
+    second: IMG_2621_21
+  - first:
+      213: 4894115725428335052
+    second: IMG_2621_22
+  - first:
+      213: 2856970523539917008
+    second: IMG_2621_23
+  - first:
+      213: 5130817742983463633
+    second: IMG_2621_24
+  - first:
+      213: -4685268782453512536
+    second: IMG_2621_25
+  - first:
+      213: -602040984734373999
+    second: IMG_2621_26
+  - first:
+      213: 4036333115816161295
+    second: IMG_2621_27
+  - first:
+      213: 582651091365551296
+    second: IMG_2621_28
+  - first:
+      213: -7908872320700717741
+    second: IMG_2621_29
+  - first:
+      213: -814721726053926571
+    second: IMG_2621_30
+  - first:
+      213: 9178461616257773300
+    second: IMG_2621_31
+  - first:
+      213: -8929165309897220476
+    second: IMG_2621_32
+  - first:
+      213: -1070730025964713156
+    second: IMG_2621_33
+  - first:
+      213: 6337709174504664190
+    second: IMG_2621_34
+  - first:
+      213: -2074682723429216043
+    second: IMG_2621_35
+  - first:
+      213: -5158684893861849582
+    second: IMG_2621_36
+  - first:
+      213: -4329453185257461576
+    second: IMG_2621_37
+  - first:
+      213: 3307076168587807501
+    second: IMG_2621_38
+  - first:
+      213: 2007419811395580470
+    second: IMG_2621_39
+  - first:
+      213: 204962478514079007
+    second: IMG_2621_40
+  - first:
+      213: 1387134606520936462
+    second: IMG_2621_41
+  - first:
+      213: -5048267895090504379
+    second: IMG_2621_42
+  - first:
+      213: -1128172071852632316
+    second: IMG_2621_43
+  - first:
+      213: -8141055833517494266
+    second: IMG_2621_44
+  - first:
+      213: 2460815093702620351
+    second: IMG_2621_45
+  - first:
+      213: -2691837633405111138
+    second: IMG_2621_46
+  - first:
+      213: -3168185710932181514
+    second: IMG_2621_47
+  - first:
+      213: 645297084303342005
+    second: IMG_2621_48
+  - first:
+      213: 4365723850796001144
+    second: IMG_2621_49
+  - first:
+      213: -8315524890862942323
+    second: IMG_2621_50
+  - first:
+      213: 1842069360028356278
+    second: IMG_2621_51
+  - first:
+      213: 2161379863540890105
+    second: IMG_2621_52
+  - first:
+      213: 598722855557909729
+    second: IMG_2621_53
+  - first:
+      213: 8046867211478859529
+    second: IMG_2621_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IMG_2621_0
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 264
+        width: 331
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99b39fd51da69e10800000000000000
+      internalID: 2204139377101355423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_2621_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 253
+        width: 367
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 20, y: 9, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ca52d36367e4fa0800000000000000
+      internalID: -5814580093562541041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_2621_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 264
+        width: 330
+        height: 346
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab75bee93dbc0724a8d3779a4153749f
+      internalID: 508675439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_2621_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 262
+        width: 329
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438f67cbb4af62a47be005bb3c3640dc
+      internalID: -1107023161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dcbb8ef386acf8a4e93dcb09523bb02c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":768.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      IMG_2621_0: 2204139377101355423
+      IMG_2621_1: -5814580093562541041
+      IMG_2621_10: 713688212
+      IMG_2621_11: 940357874
+      IMG_2621_12: 1791936654
+      IMG_2621_13: 1397653360
+      IMG_2621_14: -240236843
+      IMG_2621_15: 508675439
+      IMG_2621_16: 68918526
+      IMG_2621_17: -2023233760
+      IMG_2621_18: 1855949591
+      IMG_2621_19: 1074595711
+      IMG_2621_2: -1107023161
+      IMG_2621_20: 1252597932
+      IMG_2621_21: 1150131702
+      IMG_2621_22: -1686243155
+      IMG_2621_23: 647635435
+      IMG_2621_24: 1986937255
+      IMG_2621_25: -986663329
+      IMG_2621_26: 78056585
+      IMG_2621_27: -957676130
+      IMG_2621_28: -107646281
+      IMG_2621_29: -1962891002
+      IMG_2621_3: -652130339
+      IMG_2621_30: 1717136875
+      IMG_2621_31: -272921981
+      IMG_2621_32: -1597277963
+      IMG_2621_33: -1756147736
+      IMG_2621_34: 1234794476
+      IMG_2621_35: -807930817
+      IMG_2621_36: -1384630224
+      IMG_2621_37: 1195868820
+      IMG_2621_38: 1779534315
+      IMG_2621_39: 1192840242
+      IMG_2621_4: -1890854009
+      IMG_2621_40: 1596966625
+      IMG_2621_41: 961135416
+      IMG_2621_42: -469486682
+      IMG_2621_43: 1115173464
+      IMG_2621_44: 821893436
+      IMG_2621_45: -1997281025
+      IMG_2621_46: -699217958
+      IMG_2621_47: -1232343394
+      IMG_2621_48: 676100405
+      IMG_2621_49: -933822182
+      IMG_2621_5: -2100945054
+      IMG_2621_50: -581226461
+      IMG_2621_51: 1794015587
+      IMG_2621_52: -1237089937
+      IMG_2621_53: 212255073
+      IMG_2621_54: -619834389
+      IMG_2621_6: -708094975
+      IMG_2621_7: -51610847
+      IMG_2621_8: 764674075
+      IMG_2621_9: 259141508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
