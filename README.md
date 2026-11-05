@@ -9,7 +9,7 @@ You play as a samurai fighting through a haunted forest and a dark castle, colle
 - **Platform:** Mobile (Android / iOS), landscape orientation
 - **Engine:** Unity 6 (6000.6.7f1)
 - **Reference resolution:** 1920 x 1080
-- **Author:** [your name], solo project
+- **Author:** [Bekassyl], solo project
 
 ## Core Loop
 
@@ -40,26 +40,16 @@ UI is built with Canvas Scaler (Scale With Screen Size, 1920 x 1080, Match = 1),
 - Touch controls, pause menu, main menu
 - Tile-based levels
 
-## Planned (weeks 9-13)
-
-- [more levels and a second location (dark castle)]
-- [additional enemy types]
-- [second attack unlocked after defeating the boss]
-- [sound and music polish]
-
 ## Credits and Licenses
 
 All third-party assets are free and used under their licenses:
 
 | Asset | Author | License | Link |
 |---|---|---|---|
-| [hero sprites] | [author] | [license] | [link]([https://craftpix.net/freebies/free-shinobi-sprites-pixel-art/]) |
-| [golem sprites] | [author] | [license] | [link]([https://darkpixel-kronovi.itch.io/mecha-golem-free]) |
-| [forest tiles and background] | [author] | [license] | [link]([https://craftpix.net/freebies/free-platformer-game-tileset-pixel-art/]) |
-| [castle tiles] | [author] | [license] | [[link]([https://raou.itch.io/dark-dun]) |
-
-
-
+| Hero sprites (Shinobi) | CraftPix | [license] | [Free Shinobi Sprites](https://craftpix.net/freebies/free-shinobi-sprites-pixel-art/) |
+| Golem sprites (Mecha Golem) | darkpixel-kronovi | [license] | [Mecha Golem Free](https://darkpixel-kronovi.itch.io/mecha-golem-free) |
+| Forest tiles and background | CraftPix | [license] | [Free Platformer Tileset](https://craftpix.net/freebies/free-platformer-game-tileset-pixel-art/) |
+| Castle tiles (Dark Dun) | Raou | [license] | [Dark Dun](https://raou.itch.io/dark-dun) |
 
 ## AI Usage
 
