@@ -1,0 +1,51 @@
+AI_LOG.txt - HARD FOREST (Mobile Game Kickoff, Assignments 8-9)
+
+Tool: Claude (AI chat, used for learning and guidance only).
+No AI coding agents (Claude Code, Cursor, Copilot agent, etc.) were used in the project.
+
+Date: 4-5 November 2026
+
+1. Understanding the assignment
+   Asked: what the assignment requires (GDD, GitHub repo, three UI screens, video) and the deadline.
+   Used: the summary of requirements and grading criteria.
+
+2. UI sizes and layout for mobile
+   Asked: how to design HUD and touch controls for a landscape 2D platformer.
+   Used: advice on minimum button size (120x120 px at 1920x1080), text size, control placement,
+   and Canvas Scaler settings (Scale With Screen Size, 1920x1080, Match = 1).
+   Own work: all UI art selection, layout, anchors, sizes, pause and main menu screens.
+
+3. Touch controls
+   Asked: how to connect on-screen buttons to my existing PlayerController and PlayerAttack
+   (they use the old Input Manager).
+   Code from AI (adapted by me):
+   - MobileInput.cs (static class with Horizontal, Jump, Attack flags) - about 6 lines, copied
+   - HoldButton.cs (pointer down/up handler for UI buttons) - about 25 lines, copied
+   - small edits in PlayerController.cs and PlayerAttack.cs (added MobileInput checks) - about 6 lines
+   My own code: the rest of PlayerController, PlayerAttack and all other game scripts.
+
+4. Pause menu
+   Asked: how to make a pause screen with Resume, Restart and Home.
+   Own work: pause panel art and layout, button wiring in the Inspector, darkening overlay.
+
+5. SafeArea and Device Simulator
+   Asked: how to protect UI from notches and test on different screens.
+   Used: advice on the SafeArea panel structure, Device Simulator setup, fixing anchors so the UI
+   fits on a 4:3 tablet.
+
+6. Debugging
+   Asked: why menu buttons did not respond (answer: missing EventSystem), why a
+   MissingReferenceException appeared in the Inspector (Unity editor preview error, not my code),
+   and why the pause overlay did not cover the screen (parent object size).
+
+7. GitHub
+   Asked: how to set up a Unity repository, split work into commits and make a pull request with GitHub Desktop.
+   Did myself: created the repository, copied the project folders, made the commits, branch and PR.
+
+8. README / GDD
+   Asked: help with the README structure.
+   Own work: game idea, design, levels, characters, asset selection and licenses, final text.
+
+Summary: AI explained concepts and gave about 100 lines of small helper scripts for mobile input,
+pause and SafeArea, which I connected to my own game. The game itself, levels, animations,
+enemies, boss, art selection and all other code are my own work.
